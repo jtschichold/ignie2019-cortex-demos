@@ -25,7 +25,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "host01": [{"file": "hellow_world.py", "target": "~/", "chmod": "+x"}]
+      "host01": [{"file": "hello_world.py", "target": "~/", "chmod": "+x"}]
     }
   },
   "environment": {
