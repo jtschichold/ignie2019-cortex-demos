@@ -1,6 +1,8 @@
 {
   "title": "Hello World! with Cortex Python SDK",
   "description": "Get started with Cortex Python SDK",
+  "difficulty": "beginner",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
