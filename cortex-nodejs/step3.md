@@ -1,4 +1,4 @@
-Now you are ready to use the Cortex Python SDK!
+Now you are ready to use the Cortex Node.JS SDK!
 
 You can query the Cortex Data Lake using the Logging Service API and using query
 syntax really similar to SQL. In the included script `hello_world.js` we will execute
